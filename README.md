@@ -7,6 +7,9 @@ With SynthriseMovies, your journey begins with a simple, secure sign-up process 
 
 Your preferences, subscription plan, personal movie list, and even your profile picture are all meticulously stored within Firebase's real-time database. This ensures that your experience is tailored just for you, every time you log in.
 
+## 📺 Quick Demo
+Watch a [quick demo](https://www.youtube.com/watch?v=jIQ10rh64gI) of the SynthriseMovies platform on YouTube.
+
 ## 🛠 Technologies Employed
 - **Next.js**: For a server-rendered React experience that combines flexibility with performance.
 - **TypeScript**: Ensuring a more reliable codebase with statically typed JavaScript.
